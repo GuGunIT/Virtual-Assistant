@@ -1,7 +1,6 @@
-# Virtual-Assistant
+# WAJIB INSTALL 
 
 Speech-Recognition
-Wajib Install yang di bawah ini :
 
 - install pip install speechRecog
 - install pip install speechrecognition
